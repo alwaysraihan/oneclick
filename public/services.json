@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "Still  Photograpy",
+    "img": "https://images.unsplash.com/photo-1581549432749-cf11dc5af8ac?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzN8fGNhbWVyYXxlbnwwfDJ8MHx8&auto=format&fit=crop&w=500&q=60",
+    "price": "399",
+    "description": "This package is idle for 1 product photoshoot. It includes 20 digital images of your product."
+  },
+  {
+    "id": 2,
+    "name": "Cinematography",
+    "img": "https://images.unsplash.com/photo-1634789968768-35b60f497a7c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NTB8fGNhbWVyYXxlbnwwfDJ8MHx8&auto=format&fit=crop&w=500&q=60",
+    "price": "549",
+    "description": "This service includes 5 high 4k resolution cinematography videos with super smooth animation."
+  },
+  {
+    "id": 3,
+    "name": "Both",
+    "img": "https://images.unsplash.com/photo-1523947830521-4fa4b344b520?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTEyfHxjYW1lcmF8ZW58MHwyfDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+    "price": "999",
+    "description": "I will do both of photography & cinematography for your product on your demand."
+  }
+]
